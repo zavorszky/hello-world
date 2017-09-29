@@ -2,3 +2,6 @@ Git okossagok
 -------------
 * Megy az állomány módosítás a GitHubon :-)
 Klikk az akuális ágban lévő állományra / Jobbra a cerka.
+
+* Vissza az áttekintő ablakba.
+Klikk a Repo névre.
