@@ -1,0 +1,14 @@
+GitHub okossagok
+----------------
+A GitHub logó egy cica!
+
+* Megy az állomány módosítás a GitHubon :-)
+Klikk az akuális ágban lévő állományra / Jobbra a cerka.
+
+* Vissza az áttekintő ablakba.
+Klikk a Repo névre.
+
+* Állomány törlés
+Klikk az akuális ágban lévő állományra / Jobbra a kuka.
+
+Kipróbáltam, okos, ugyan azon névvel nem endeg létrehozni egy új állományt. Még jó...
