@@ -1,5 +1,8 @@
 GitHub okossagok
 ----------------
+
+*** 2017.09.29 ***
+
 A GitHub logó egy cica!
 
 * Megy az állomány módosítás a GitHubon :-)
@@ -11,4 +14,59 @@ Klikk a Repo névre.
 * Állomány törlés
 Klikk az akuális ágban lévő állományra / Jobbra a kuka.
 
-Kipróbáltam, okos, ugyan azon névvel nem endeg létrehozni egy új állományt. Még jó...
+Kipróbáltam, okos, ugyan azon névvel nem endeg létrehozni egy új állományt. Még
+jó...
+
+A GitHub UTF-8 kódolású állományokat készít magától Windows(CR LF)
+sorkezelésssel.
+
+Mi történt ?
+
+Történések a GitHub-on
+----------------------
+1) Csatlakozás a GitHub-hoz. user:zavorszky
+
+2) Egy Repo létrehozása: hello-world. Ekkor létrejön a masret ág (branch) is.
+
+3) Új ág létrehozása: readme-edits. Ezt a master ágban az ág választásnál
+kellett megadni, és létrejött.
+
+4) Új állományt készítettem git_okossagok.txt, javítgattam közben
+szorgalmasan nyomogattam a commit gonbot. Így összegyűlt egy csomó változás.
+
+5) Most jött az "Open a Pull Request" (izé...). Ennek hatására az aktuális
+(readme-edits) ágat összehasonlította a master ággal. (biztos lehetne más
+ággal is, de túl gyorsan történtek a dolgok... :-) A változásokat megmutatta
+és közölte, hogy automatikusan tud öszefésülni (merge).
+
+6) Megnyomtam a "Merge Pull Request". Itt valahol felajánlotta, hogy
+törölhetem a readme-edits ágat, mert biztonságban vanna az adataim,
+egyenlőre nem töröltem.
+
+Na a GitHub-on a hello-world Repo-ban a master ágban elérkeztem egy
+mérföldkőhöz, egy stabil állapothaoz. Ezt kellett a helyi munkaállomásra
+hoznom.
+
+Clone or Replace
+
+7) Kaptam is egy URL-t: https://github.com/zavorszky/hello-world.git amivel
+valószínűleg sok jó dolgot tudok majd csinálni, de most meglepődtem.
+Felajánlotta a GitHub Desktop installálását. Jó lássuk. Ezzel 3-ra nőtt a
+Git-es szoftverek száma: a Git, a TortoiseGit és most a GitHub Desktop.
+Letöltöttem (GitHubDesktopSetup.exe) elinditottam, feltelepült gond nélkül
+(1.0.2).
+
+Történések a helyi GitHub Desktop-on
+------------------------------------
+
+Automatikusan elindult és kérte a GitHub felhasználó nevemet és
+jelszót. Miután megadtam kapcsolódott a GitHub-hoz és most le tudtam tölteni
+(clone) a hello-world Repo-t.
+
+Nekem még szokatlan, de a Repo nem az általam kiválasztott könyvtárBA jött
+létre, hanem ALÁ. Logikus így kevesebbet kell bajlódni a könyvtárakkal és
+véletlenül sem ömlik valami nem kívánatos helyre az anyag.
+
+
+
+
