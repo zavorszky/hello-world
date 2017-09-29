@@ -5,3 +5,8 @@ Klikk az akuális ágban lévő állományra / Jobbra a cerka.
 
 * Vissza az áttekintő ablakba.
 Klikk a Repo névre.
+
+* Állomány törlés
+Klikk az akuális ágban lévő állományra / Jobbra a kuka.
+
+Kipróbáltam, okos ugyan azon névvel nem endeg létrehozni. Még jó...
