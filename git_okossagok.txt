@@ -3,6 +3,19 @@
 
 
 
+*** 2017.10.02 ***
+
+Helyre tettem a rossz helyen lévő hello-world.git helyi Repo-t.
+1) Mentettem a temp könyvtáramba.
+
+2) Töröltem a ..\z9_projects\hello-world\hello-world mappát
+
+3) A GitHub-on "leklónoztam" a hello-world távoli Repo-t, de már a jó
+.\z9_projects mappába. Így a munkaállomáson olyan lett a könyvtár szerkezet,
+mint ahogyan szerettem volna.
+
+
+
 *** 2017.10.01 ***
 
 Van egy helyi kísérlet sorozatom: JavaScript programocskákat és a DOM dolgait
