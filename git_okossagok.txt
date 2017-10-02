@@ -15,6 +15,27 @@ Helyre tettem a rossz helyen lévő hello-world.git helyi Repo-t.
 mint ahogyan szerettem volna.
 
 
+A JavaScript_onkepzes helyi Repo-ban készítettem egy hibás nevű állományt:
+JS004.html Ezzel kipróbáltam a Git Bash alatt a Git-el való átnevezést.
+
+1) A Hibás nevű állomány létrehozása (JS004.html)
+
+2) Git Gui / Git Bash
+
+3) Átnevezés Git-el:
+$ git mv -v JS004.html JS003.html
+Renaming JS004.html to JS003.html
+
+4) A Git Gui, ellentétben a lenti téves mv-vel, rögtön a Staged ablakban mutatja
+a törölt JS004.html-t valamint a hozzáadott JS003.html-t.
+
+5) Commit
+
+Az eredmény ugyan az, egy klikkelést spóroltunk: nem kellett az Unstaged
+állapotból a Staged-be tennünk az állományokat. És persze nem rontottuk el a
+neveket :-)
+
+
 
 *** 2017.10.01 ***
 
